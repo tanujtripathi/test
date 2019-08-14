@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 New Changes made in master branch by some other guyy
+=======
+New Changes made in master branch by tanuj
+>>>>>>> Stashed changes
